@@ -1,0 +1,9 @@
+1-> n.logn
+
+2-> n.logn
+
+3-> logn
+
+4-> logn
+
+5-> logn
